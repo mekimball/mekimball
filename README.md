@@ -1,9 +1,9 @@
 - 💬 About me:
    Air Force veteran with a passion for craft beer and learning new things. 
-   
+   <br>
    
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mekimball&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mekimball&show_icons=true&theme=synthwave)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mekimball)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
